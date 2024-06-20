@@ -1,0 +1,14 @@
+import java.util.ArrayList;
+
+public class TesteArrays {
+    public static void main(String[] args) {
+        // Declarando e inicializando arrays com dimensões diferentes
+        int[] array1D = new int[5];
+        char[][] array2D = new char[3][4];
+        double[][][] array3D = new double[2][3][4];
+
+
+        // Chamando o analisador léxico para identificar os tokens
+
+    }
+}
