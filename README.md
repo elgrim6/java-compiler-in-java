@@ -1,1 +1,1 @@
-A java compiler written in Java. This compiler works specifically on declaration of array type variables.
+Projecto Elaborado como parte de um trabalho prático na cadeira de Compiladores no curso de Engenharia Informática do ISCTEM.
